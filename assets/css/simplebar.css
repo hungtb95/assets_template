@@ -97,3 +97,11 @@
     min-width: 10px;
     width: auto;
 }
+.uk1 {
+    box-sizing: border-box;
+    height: 660px;
+    padding: 10px;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    resize: both;
+}
