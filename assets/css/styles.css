@@ -264,3 +264,15 @@ body{font-family: arial,sans-serif; background-color: #191919; position: relativ
 	.movie ul{float: none; width: 100%; text-align: center; margin:10px 0;}
 	.movie ul li{float: none;}
 }
+.img_size{
+  background: transparent;
+  border: 0;
+  width: 177px;
+  height: 258px;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+.margin{
+  margin-top: 15px;
+}
