@@ -1594,5 +1594,20 @@ border-radius: 4px;
   color: #777777;
 }
 
+.uk-block-custom {
+  width: 80%;
+}
+
+.uk-container-custom {
+  padding-left: 1px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: -7px;
+  width: 100%;
+}
+
+.media-cover-custom {
+  margin-top: 0px!important;
+}
 
 
