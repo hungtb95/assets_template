@@ -7859,3 +7859,12 @@ a.uk-datepicker-table-muted {
   border-bottom-color: transparent;
   border-right-color: #333333;
 }
+
+.uk-cover-custom {
+  height: 400px;
+}
+
+.data-uk-cover-custom {
+  width: 640px !important;
+  height: 400px !important;
+}
