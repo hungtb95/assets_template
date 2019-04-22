@@ -7868,3 +7868,17 @@ a.uk-datepicker-table-muted {
   width: 640px !important;
   height: 400px !important;
 }
+
+.uk-scrollable-box-custom {
+  box-sizing: border-box;
+  height: 1149px;
+  padding: 10px;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  resize: both;
+}
+
+.img-logo-custom {
+  width: 200px;
+  height: 40px;
+}
